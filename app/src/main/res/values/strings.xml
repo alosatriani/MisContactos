@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Mis Contactos</string>
+
+    <string name="datePickerName">Fecha Nacimiento:</string>
+    <string name="hintNombreCompleto">Nombre completo:</string>
+    <string name="hintEmail">Email:</string>
+    <string name="hintDescripcionContacto">Descripción Contacto:</string>
+
+    <string name="btnSiguiente">Siguiente</string>
+    <string name="hintTelefono">Teléfono:</string>
+
+    <string name="confirmarDatos">Confirma Tus Datos</string>
+    <string name="fechaNacimiento">Fecha de Nacimiento: </string>
+    <string name="email">Email: </string>
+    <string name="telefono">Telefono: </string>
+    <string name="descripcion">Descripcion: </string>
+
+    <string name="btnEditarDatos">Editar Datos</string>
+
+
+</resources>
